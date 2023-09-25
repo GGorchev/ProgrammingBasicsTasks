@@ -1,1 +1,1 @@
-# ProgrammingBasicsTasks
+# ProgrammingBasicsTasks JS
